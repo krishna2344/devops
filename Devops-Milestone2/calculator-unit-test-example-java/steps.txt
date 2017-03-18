@@ -1,0 +1,9 @@
+1. Jenkins trigger Build for Maven project on post-commit local repository
+2. Added Cobertura plugin in Maven and Jenkins
+3. Added Randoop plugin in Eclipse
+4. Run the class files as Randoop Tests
+5. Build generates Cobertura reports
+6. Compare before and after Randoop tests
+7. Added Checkstyle plugin in Maven and Jenkins
+8. mvn clean compile site generates the checkstyle report
+9. Created checkstyle.xml file with default checkstyle. Further added custom rules
